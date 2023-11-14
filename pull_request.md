@@ -1,7 +1,7 @@
-## 📃Ticket
+## 📃 Ticket
 
-## ✍Description
+## ✍ Description
 
-## ✅Checked
+## ✅ Checked
 
-## 🔗Related PRs
+## 🔗 Related PRs
