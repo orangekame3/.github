@@ -1,6 +1,6 @@
-## 📋Ticket
+## 📃Ticket
 
-## 💬Description
+## ✍Description
 
 ## ✅Checked
 
